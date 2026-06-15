@@ -91,7 +91,6 @@
 - 🏆 Recipient of the **FFE Scholarship** for academic excellence
 - 🏆 Successfully completed the **Aspire Leaders Program 2026**
 - 🏆 Secured **AIR 4362** in TS EAMCET 2023 among 200,000+ candidates
-- 
 ---
 
 ## Certifications
