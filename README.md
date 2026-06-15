@@ -47,3 +47,63 @@
 - Generated recommendations based on symptoms, severity, and user preferences
 
 ---
+
+## Tech Stack
+
+### Languages
+- Python
+- Java
+- JavaScript
+- HTML
+- CSS
+
+### AI/ML & Data Science
+- Scikit-Learn
+- OpenCV
+- MediaPipe
+- Pandas
+- NumPy
+- Matplotlib
+
+### Databases
+- MongoDB
+- SQLite
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Google Colab
+
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Machine Learning
+
+---
+
+## Achievements
+
+- 🏆 Solved **400+** Data Structures & Algorithms problems on LeetCode
+- 🏆 Solved **250+** problems on TUF+
+- 🏆 Recipient of the **FFE Scholarship** for academic excellence
+- 🏆 Successfully completed the **Aspire Leaders Program 2026**
+- 🏆 Secured **AIR 4362** in TS EAMCET 2023 among 200,000+ candidates
+
+---
+
+## Certifications
+
+- 📜 MongoDB Associate Developer – MongoDB University
+- 📜 Amazon Future Engineer (AFE) Bootcamp – Java & DSA
+- 📜 Intro to Generative AI with AWS – Udacity
+
+---
+
+## Contact Me
+
+- 📧 Email: akshithaameti85@gmail.com
+- 💼 LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
+- 💻 LeetCode: [LeetCode Profile](YOUR_LEETCODE_URL)
+- 🌐 Portfolio: [Portfolio](YOUR_PORTFOLIO_URL)
