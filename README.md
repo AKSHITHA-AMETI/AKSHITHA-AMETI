@@ -2,37 +2,48 @@
 
 ## About Me
 
-🎓 Third-Year Information Technology Student at CBIT, Hyderabad - maintaining a CGPA of 9.51
+🎓 Third-Year Information Technology Student at CBIT, Hyderabad, maintaining a CGPA of **9.51/10**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision, with a drive to build innovative solutions that create real-world impact
+🤖 Passionate about Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision
 
 💻 Strong problem-solving mindset with a solid foundation in Data Structures & Algorithms
 
-🚀 Building AI-powered solutions to solve real-world problems
+🚀 Building intelligent solutions that address real-world challenges
 
-🌱 Continuously learning and exploring emerging technologies
+🌱 Continuously learning and expanding my technical expertise through projects and hands-on experience
 
-🎯 Seeking opportunities to apply my skills and contribute to innovative AI/ML projects
+🎯 Aspiring to contribute to innovative AI/ML-driven solutions
+
+---
 
 ## Experience
 
-## AICTE-Edunet Virtual Internship – GreenAI
+### AICTE-Edunet Virtual Internship – GreenAI
 
-Developed a Water Quality Prediction system using Machine Learning.
-Performed data preprocessing, feature engineering, and model evaluation.
-Built an interactive Streamlit application for real-time water potability prediction.
-Worked with Python, Pandas, NumPy, Scikit-Learn, and Streamlit.
+**Tech Stack:** Python, Pandas, NumPy, Scikit-Learn, Streamlit
+
+- Developed a Water Quality Prediction system using Machine Learning
+- Performed data preprocessing, feature engineering, and model evaluation
+- Built an interactive Streamlit application for real-time water potability prediction
+
+---
 
 ## Projects
 
-** Student Focus Tracker **
+### 🎯 Student Focus Tracker
 
-Developed an AI-powered real-time student attention monitoring system for online learning.
-Implemented face detection, gaze tracking, head pose estimation, and yawn detection using OpenCV and MediaPipe.
-Built an analytics dashboard to visualize student engagement and focus levels.
+**Tech Stack:** Python, OpenCV, MediaPipe, Flask, React, MongoDB
 
-** Hair & Skin Care Recommendation System **
+- Developed an AI-powered real-time student attention monitoring system for online learning
+- Implemented face detection, gaze tracking, head pose estimation, and yawn detection using OpenCV and MediaPipe
+- Built an analytics dashboard to visualize student engagement and focus levels
 
-Built a personalized recommendation system for hair and skincare solutions.
-Utilized RandomForestClassifier and NearestNeighbors algorithms.
-Generated recommendations based on symptoms, severity, and user preferences.
+### 💄 Hair & Skin Care Recommendation System
+
+**Tech Stack:** Python, Scikit-Learn, Pandas, NumPy
+
+- Built a personalized recommendation system for hair and skincare solutions
+- Utilized RandomForestClassifier and NearestNeighbors algorithms
+- Generated recommendations based on symptoms, severity, and user preferences
+
+---
