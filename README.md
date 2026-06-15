@@ -53,17 +53,18 @@
 ### Languages
 - Python
 - Java
-- JavaScript
+- SQL
 - HTML
 - CSS
 
-### AI/ML & Data Science
+### AI/ML & Frameworks
 - Scikit-Learn
 - OpenCV
 - MediaPipe
 - Pandas
 - NumPy
 - Matplotlib
+- Flask
 
 ### Databases
 - MongoDB
@@ -76,21 +77,21 @@
 - Google Colab
 
 ### Core Concepts
+- Machine Learning
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Database Management Systems
-- Machine Learning
 
 ---
 
 ## Achievements
 
-- 🏆 Solved **400+** Data Structures & Algorithms problems on LeetCode
+- 🏆 Solved **450+** Data Structures & Algorithms problems on LeetCode
 - 🏆 Solved **250+** problems on TUF+
 - 🏆 Recipient of the **FFE Scholarship** for academic excellence
 - 🏆 Successfully completed the **Aspire Leaders Program 2026**
 - 🏆 Secured **AIR 4362** in TS EAMCET 2023 among 200,000+ candidates
-
+- 
 ---
 
 ## Certifications
@@ -104,6 +105,6 @@
 ## Contact Me
 
 - 📧 Email: akshithaameti85@gmail.com
-- 💼 LinkedIn: [LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 💻 LeetCode: [LeetCode Profile](YOUR_LEETCODE_URL)
-- 🌐 Portfolio: [Portfolio](YOUR_PORTFOLIO_URL)
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akshitha-ameti)
+- 💻 LeetCode: [LeetCode Profile](https://leetcode.com/u/akshithaameti85_/)
+- 🌐 Portfolio: [Portfolio](https://portfolio-ql42efg9z-akshitha-ametis-projects.vercel.app/)
