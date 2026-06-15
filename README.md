@@ -106,4 +106,4 @@
 - 📧 Email: akshithaameti85@gmail.com
 - 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/akshitha-ameti)
 - 💻 LeetCode: [LeetCode Profile](https://leetcode.com/u/akshithaameti85_/)
-- 🌐 Portfolio: [Portfolio](https://portfolio-ql42efg9z-akshitha-ametis-projects.vercel.app/)
+- 🌐 Portfolio: [Portfolio](https://portfolio-delta-ecru-94.vercel.app)
